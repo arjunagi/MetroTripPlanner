@@ -1,0 +1,157 @@
+green (21) 	
+Greenbelt 0 0 
+College_Park 0 125 30
+Prince_George_Plaza 0 300 35 
+West_Hyatsville 0 450 25
+Fort_Totten 2 700 60 yellow 15 red 45
+Georgia_Ave_Petworth 1 820 50 yellow 20
+Columbia_Heights 1 1000 45 yellow 20
+U_St 1 1180 45 yellow 20
+Shaw_Howard_U 1 1300 50 yellow 25
+Mt_Vernon_Sq 1 1420 50 yellow 25
+Gallery_Place 2 1540 100 yellow 10 red 50
+Archives 1 1630 30 yellow 25
+L'Enfant_Plaza 4 1800 45 yellow 20 blue 50 silver 45 orange 40
+Waterfront 0 2140 30
+Navy_Yard_Ballpark 0 2200 45
+Anacostia 0 2400 25
+Congress_Heights 0 2490 20
+Southern_Ave 0 2612 20
+Naylor_Rd 0 2806 20
+Suitland 0 2945 20
+Branch_Ave 0 3100
+
+yellow (17)
+Fort_Totten 2 0 green 20 red 45
+Georgia_Ave_Petworth 1 100 50 green 20
+Columbia_Heights 1 280 45 green 20
+U_St 1 460 45 green 20
+Shaw_Howard_U 1 580 50 green 25
+Mt_Vernon_Sq 1 700 50 green 25
+Gallery_Place 2 820 100 green 60 red 30
+Archives 1 910 30 green 25
+L'Enfant_Plaza 4 1080 45 green 20 blue 50 silver 80 orange 40
+Pentagon 1 1500 40 blue 35
+Pentagon_City 1 1650 30 blue 20
+Crystal_City 1 1802 30 blue 20
+Ronald_Reagan_Airport 1 1950 50 blue 20
+Braddock_Rd 1 2038 20 blue 20
+King_St_Old_Town 1 2200 30 blue 58
+Eisenhower_Ave 0 2360 20
+Huntington 0 2500
+
+blue (27)
+Largo_Town_Center 1 0 silver 0
+Morgan_Blvd 1 111 21 silver 20
+Addison_Rd 1 225 21 silver 20
+Capitol_Heights 1 339 21 silver 20
+Benning_Rd 1 450 30 silver 20
+Stadium_Armory 2 700 60 silver 20 orange 45
+Potomac_Ave 2 830 30 silver 20 orange 20
+Eastern_Market 2 907 25 silver 30 orange 20
+Capitol_South 2 1009 28 silver 20 orange 30
+Federal_Center_SW 2 1174 20 silver 25 orange 15
+L'Enfant_Plaza 4 1300 99 silver 25 orange 20 yellow 80 green 75
+Smithsonian 2 1500 75 silver 25 orange 20
+Federal_Triangle 2 1650 30 silver 20 orange 25
+Metro_Center 3 1799 45 silver 25 orange 24 red 10
+McPherson_Sq 2 1987 30 silver 20 orange 20
+Farragut_West 2 2185 30 silver 25 orange 20
+Foggy_Bottom_GWU 2 2323 25 silver 30 orange 30
+Rosslyn 2 2702 35 silver 45 orange 42
+Arlington_Cemetery 0 2967 20
+Pentagon 1 3195 30 yellow 45
+Pentagon_City 1 3350 25 yellow 20
+Crystal_City 1 3520 25 yellow 30
+Ronald_Reagan_Airport 1 3700 50 yellow 20
+Braddock_Rd 1 3820 20 yellow 20
+King_St_Old_Town 1 4000 20 yellow 40
+Van_Dorn_St 0 4300 20
+Franconia_Springfield 0 4490
+
+silver (28)
+Largo_Town_Center 1 0 blue 0
+Morgan_Blvd 1 112 18 blue 20 
+Addison_Rd 1 225 20 blue 19
+Capitol_Heights 1 340 20 blue 10
+Benning_Rd 1 450 30 blue 20
+Stadium_Armory 2 690 55 blue 18 orange 70
+Potomac_Ave 2 820 20 blue 25 orange 50
+Eastern_Market 2 900 25 blue 25 orange 45
+Capitol_South 2 999 55 blue 40 orange 35
+Federal_Center_SW 2 1200 30 blue 20 orange 45
+L'Enfant_Plaza 4 1320 60 blue 20 orange 30 green 70 yellow 65
+Smithsonian 2 1550 45 blue 20 orange 25
+Federal_Triangle 2 1699 40 blue 15 orange 30
+Metro_Center 3 1800 60 red 40 blue 10 orange 10
+McPherson_Sq 2 1992 25 blue 20 orange 20
+Farragut_West 2 2200 20 blue 15 orange 25
+Foggy_Bottom_GWU 2 2330 20 blue 20 orange 16
+Rosslyn 2 2720 40 blue 55 orange 20
+Court_House 1 2980 20 orange 15
+Clarendon 1 3100 25 orange 22
+Virginia_Sq_GMU 1 3233 30 orange 15
+Ballston_MU 1 3400 25 orange 20
+East_Falls_Church 1 3550 50 orange 45
+McLean 0 3701 20
+Tysons_Corner 0 3883 50
+Greensboro 0 4000 30
+Spring_Hill 0 4150 20
+Wiehle_Reston 0 4290
+
+orange (26)
+New_Carrollton 0 0
+Landover 0 121 25
+Cheverly 0 250 20
+Deanwood 0 373 26
+Minneasota_Ave 0 502 22 
+Stadium_Armory 2 800 45 silver 50 blue 55
+Potomac_Ave 2 907 20 silver 40 blue 45
+Eastern_Market 2 1000 24 silver 40 blue 40
+Capitol_South 2 1108 20 silver 40 blue 40
+Federal_Center_SW 2 1260 30 silver 35 blue 40
+L'Enfant_Plaza 4 1400 40 green 60 yellow 70 blue 40 silver 35
+Smithsonian 2 1604 50 blue 30 silver 50
+Federal_Triangle 2 1790 30 blue 25 silver 45
+Metro_Center 3 1950 45 blue 30 silver 40 red 50
+McPherson_Sq 2 2100 30 blue 25 silver 20
+Farragut_West 2 2259 20 blue 40 silver 35
+Foggy_Bottom_GWU 2 2437 25 silver 30 blue 20
+Rosslyn 2 2811 20 blue 50 silver 45
+Court_House 1 3100 20 silver 15
+Clarendon 1 3245 15 silver 20
+Virginia_Sq_GMU 1 3388 35 silver 15
+Ballston_MU 1 3505 30 silver 20
+East_Falls_Church 1 3678 50 silver 50
+West_Falls_Church 0 3800 20
+Dunn_Loring 0 3920 20
+Vienna 0 4230
+
+red (27)
+Glenmont 0 0
+Wheaton 0 133 28
+Forest_Glen 0 241 20
+Silver_Spring 0 341 35
+Takoma 0 548 40
+Fort_Totten 2 777 20 yellow 30 green 25 
+Brookland_CUA 0 1027 20
+Rhode_Island_Ave 0 1127 27
+NoMa_Gallaudet_U 0 1226 25
+Union_Station 0 1345 40
+Judiciary_Sq 0 1510 23
+Gallery_Place 2 1612 40 yellow 25 green 30
+Metro_Center 3 1728 33 orange 41 silver 42 blue 43
+Farragut_North 0 1902 20
+Dupont_Circle 0 2002 19
+Woodley_Park 0 2102 19
+Cleveland_Park 0 2222 19
+Van_Ness_UDC 0 2320 19
+Tenleytown_AU 0 2450 19
+Frienship_Heights 0 2601 19
+Bethesda 0 2727 19
+Medical_Center 0 2840 19
+Grosvenor_Strathmore 0 2999 19
+White_Flint 0 3130 30 
+Twinbrook 0 3249 19
+Rockville 0 3385 19
+Shady_Grove 0 3600 
