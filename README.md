@@ -3,10 +3,15 @@
 Given an input file that contains the information about the metro rail system in the Washington DC metropolitan area (metro.txt), 
 the program will help a customer to find the quickest trip from one station to another.
 
-**Execution:**                                                                                                                        
+![Alt test](https://github.com/arjunagi/MetroTripPlanner/blob/master/Dc_map.jpg)
+
+
+#### Execution:                                                                                                                       
 The program will run with the following command:                                                                                        
-a.out trip.txt                                                                                                                          
+```./a.out trip.txt```                                                                                                                     
 where a.out is the executable and trip.txt is the output file name provided by the user at the command line.
+ 
+![Alt test](https://github.com/arjunagi/MetroTripPlanner/blob/master/Using_the_tool.png)
 
 #### Code Logic:                                                                                                                         
 **Data Structures Used:**                                                                                                               
